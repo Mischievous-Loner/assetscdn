@@ -1,5 +1,5 @@
 # assetscdn
-Assets to be uploaded here to use cdn
+Assets to be uploaded here to be used with cdn
 # License
 Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
