@@ -4,7 +4,7 @@ Assets to be uploaded here to use cdn
 Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-nd].
+[Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License][cc-by-nd].
 
 [![CC BY-ND 4.0][cc-by-nd-image]][cc-by-nd]
 
