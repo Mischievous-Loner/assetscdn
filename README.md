@@ -1,4 +1,4 @@
-# assetscdn
+# AssetsCDN
 Assets to be uploaded here to be used with cdn
 # CDN database link :-
 > https://cdn.jsdelivr.net/gh/Mischievous-Loner/assetscdn@main/
@@ -6,7 +6,7 @@ Assets to be uploaded here to be used with cdn
 # License
 Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
-This work is licensed under a
+> This work is licensed under a
 [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License][cc-by-nd].
 
 [![CC BY-ND 4.0][cc-by-nd-image]][cc-by-nd]
