@@ -1,5 +1,5 @@
 # AssetsCDN
-Assets to be uploaded here to be used with cdn
+Assets to be uploaded here to be used with CDN
 # CDN database link :-
 > https://cdn.jsdelivr.net/gh/Mischievous-Loner/assetscdn@main/
 
